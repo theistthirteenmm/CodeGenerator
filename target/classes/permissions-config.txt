@@ -1,0 +1,8 @@
+سمت, /post, POST
+سمت, /post, GET
+سمت, /post, PUT
+یبلیبلی, /dsfdsf, GET
+یسبلیسل, /dsfsf, POST
+یسبلیسل, /dsfsf, GET
+یسبلیسل, /dsfsf, PUT
+یسبلیسل, /dsfsf, DELETE
